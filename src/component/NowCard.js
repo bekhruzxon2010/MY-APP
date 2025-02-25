@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/NowCard.css'
+import '../styles/NowCard.module.css'
 import Image from "next/image"
 
 
