@@ -1,0 +1,24 @@
+.all11{
+    border: 1px gray solid;
+    width: 1165px;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 50px;
+    background-image:  url(/public/backk.jfif);
+    background-repeat: repeat;
+    margin-left: 100px;
+}
+.btn_style11{
+    background-color: #F05A00;
+    color: white;
+    border-radius: 6px;
+}
+.number{
+    font-size: 100px;
+}
+.text_width11{
+    width: 250px;
+    margin-left: 450px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
