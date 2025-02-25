@@ -1,5 +1,5 @@
 import NowCard from "@/component/NowCard";
-import "../styles/EndCard.css"
+import "../styles/EndCard.module.css"
 function Sigin () {
     return(
         <>

@@ -1,5 +1,5 @@
 import React from 'react'
-import  '../styles/EndCard.css'
+import '../styles/EndCard.module.css'
 
 function EndCard() {
     return (
