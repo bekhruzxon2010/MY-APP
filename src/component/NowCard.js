@@ -12,17 +12,15 @@ const NowCard = () => {
     agreedToTerms: false,
   });
 
-  // Submit handler
+  
   const handleSubmit = () => {
     console.log("Form submitted with data:", formData);
 
-    // Navigate to product page after a short delay
     setTimeout(() => {
-      router.push("/product");
-    }, 500); // Add a small delay (500ms)
+      router.push("/secondPage")
+    }, 500); 
   };
 
-  // Handle input changes
   const handleInputChange = (e) => {
     const { name, value } = e.target;
     setFormData((prevData) => ({
